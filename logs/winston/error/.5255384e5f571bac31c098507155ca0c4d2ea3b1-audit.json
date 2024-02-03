@@ -1,0 +1,25 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "/home/nirjhor/Development Self/assignment-5-servser-site/Advanced-Backend-Boilerplate/logs/winston/error/.5255384e5f571bac31c098507155ca0c4d2ea3b1-audit.json",
+    "files": [
+        {
+            "date": 1706944222332,
+            "name": "/home/nirjhor/Development Self/assignment-5-servser-site/Advanced-Backend-Boilerplate/logs/winston/error/phu-2024-02-03-13-error.log",
+            "hash": "59af48cdc267ee1d8e3a5d5e8b8b48803bd120c8e22583ae2f69c3311c1c06cd"
+        },
+        {
+            "date": 1706950144113,
+            "name": "/home/nirjhor/Development Self/assignment-5-servser-site/Advanced-Backend-Boilerplate/logs/winston/error/phu-2024-02-03-14-error.log",
+            "hash": "602bbc0ecf707bd5751fa3899a3243b7ac859fee2f6e8c1380211f23eec86ad9"
+        },
+        {
+            "date": 1706951274705,
+            "name": "/home/nirjhor/Development Self/assignment-5-servser-site/Advanced-Backend-Boilerplate/logs/winston/error/phu-2024-02-03-15-error.log",
+            "hash": "08b534fa1d9590e4afed60ea0181cd74c62d05bda6c0cf7c400acb0d56123c76"
+        }
+    ],
+    "hashType": "sha256"
+}
